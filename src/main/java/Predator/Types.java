@@ -1,6 +1,6 @@
 package Predator;
 
-public enum Types {
+public enum Types{
     FELIFORMIA,
     CANIFORMIA;
 
